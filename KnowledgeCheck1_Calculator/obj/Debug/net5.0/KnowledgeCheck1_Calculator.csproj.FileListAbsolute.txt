@@ -1,0 +1,15 @@
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/mamia2/Desktop/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll

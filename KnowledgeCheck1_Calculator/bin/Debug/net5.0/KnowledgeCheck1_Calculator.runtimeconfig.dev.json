@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mamia2/.dotnet/store/|arch|/|tfm|",
+      "/Users/mamia2/.nuget/packages"
+    ]
+  }
+}
